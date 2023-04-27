@@ -2,7 +2,7 @@ import './index.css'
 
 const ListItem = (props)=>{
     const {details} = props
-    const {name} = details
+    const {name,id} = details
 
     
 
